@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Omni",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "prettier.singleQuote": true,
+    "files.autoSave": "onFocusChange",
+}
